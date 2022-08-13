@@ -10,8 +10,10 @@ A few notes before we begin:
 
 ## Part 1: sexuality tests
 disclaimer: these are very accurate as we know... yeah...totally
+
 ![](quadrants.jpg)
 
 ## Part 2: her boyfriend admits she's gay
 
 ## Part 3: general fruitiness
+
