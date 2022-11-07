@@ -1,20 +1,38 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<title>gaygaygay</title>
+<title>Grade Calculator</title>
 <body>
 
-<input type="text" id="box1"><br/>
-<input type="text" id="box2"><br/>
-<input type="text" id="+"><br/>
-<input type="button" value="+" onclick="calcSum()"><br/>
+<label for="eng">English: </label>
+<input type="text" id="eng"><br/>
+
+
+<label for="ss">Social Studies: </label>
+<input type="text" id="ss"><br/>
+  
+
+<label for="mat">Math: </label>
+<input type="text" id="mat"><br/>
+
+
+<label for="sci">Science: </label>
+<input type="text" id="sci"><br/>
+  
+
+<label for="res">Research: </label>
+<input type="text" id="res"><br/>
+    
+
+<input type="text" id="gpa"><br/>
+<input type="button" value="gpa" onclick="calcSum()"><br/>
 
 <script>
 function calcSum(){
-let box1 = document.getElementById("box1").value;
-let box2 = document.getElementById("box2").value;
-let sum = Number(box1) + Number(box2);
-document.getElementById("+").value = sum;
+let box1 = document.getElementById("eng").value;
+let box2 = document.getElementById("ss").value;
+let sum = (Number(box1) + Number(box2))/2;
+document.getElementById("gpa").value = sum;
 }
 </script>
   
