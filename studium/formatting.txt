@@ -1,0 +1,7 @@
+colors:
+- black #000000
+- light gray #d3d3d3
+- white #ffffff
+- mint cream #f5fffa
+- light lavendar #ddddf8
+- lavendar #aaaaee
