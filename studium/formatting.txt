@@ -1,6 +1,6 @@
 colors:
 - black #000000
-- light gray #d3d3d3
+- light gray #f1f1f1
 - white #ffffff
 - mint cream #f5fffa
 - light lavendar #ddddf8
