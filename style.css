@@ -87,7 +87,7 @@ button:hover {
 
 .hero-image {
   width: 50%;
-  height: 90%;
+  height: 75%;
 }
 
 @media screen and (max-width: 768px) {
